@@ -14,7 +14,7 @@ separated by short breaks.
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 The motivation behind writing this small app was to learn about jetpack compose and try it out for
-the first time. This has been developed specifically for the [Android Dev Challenge: lift off with Jetpack Compose](https://android-developers.googleblog.com/2021/02/android-dev-challenge-lift-off-with.html).
+the first time. This has been developed specifically for the [Android Dev Challenge: lift off with Jetpack Compose](https://android-developers.googleblog.com/2021/03/android-dev-challenge-2.html).
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
