@@ -1,4 +1,4 @@
-# Put title of your app here
+# Pomotimer
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -7,7 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-An application of the pomodoro technique that uses a timer to break down work into intervals,
+An utility application of the pomodoro technique that uses a timer to break down the work into intervals,
 separated by short breaks.
 
 ## :bulb: Motivation and Context
