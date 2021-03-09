@@ -54,7 +54,7 @@ fun PomotimerDialog(viewState: ViewState?, onConfirmed: () -> Unit) {
             viewState.isPomodoroFinished() -> {
                 PomotimerDialogContent(
                     title = "Take a break!",
-                    text = "You've finished a pomodoro, take a short break.",
+                    text = "Pomodoro finished, take a short break.",
                     onConfirmed = onConfirmed
                 )
             }
@@ -78,7 +78,7 @@ fun PomotimerDialogContent(title: String, text: String, onConfirmed: () -> Unit)
                     text = "Continue",
                     color = Color.White,
                     textAlign = TextAlign.Center,
-                    style = MaterialTheme.typography.h6
+                    style = MaterialTheme.typography.body1
                 )
             }
         },
